@@ -1,0 +1,29 @@
+seed: 1
+seeds: 20
+world_size: 4
+device: cuda
+precision: fp32
+epochs: 1000
+batch_size_per_gpu: 2
+gradient_accumulation: 1
+optimizer: sgd
+learning_rate: 0.01
+momentum: 0.99
+weight_decay: 0.00003
+scheduler: polynomial
+polynomial_power: 0.9
+volume_shape: [128, 128, 128]
+lambda_fair: 0.1
+lambda_bound: 0.05
+epsilon_fair: 0.05
+epsilon_morph: 0.02
+lambda_entropic: 0.01
+sinkhorn_iterations: 100
+eaoth_iterations: 500
+power_iterations: 50
+finite_difference_samples: 1000
+finite_difference_delta_mm: 0.1
+lipschitz_cache_interval: 10
+bootstrap_resamples: 10000
+equity_threshold: 0.05
+

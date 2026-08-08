@@ -1,0 +1,7 @@
+Osteoarthritis Initiative | https://nda.nih.gov/oai | public use, registration required
+MURA v1.0 | https://stanfordmlgroup.github.io/competitions/mura/ | Stanford AIMI terms
+FracAtlas | https://doi.org/10.6084/m9.figshare.22363012 | CC BY 4.0
+TotalSegmentator | https://github.com/wasserth/TotalSegmentator | Apache-2.0
+VerSe 2019-2020 | https://github.com/anjany/verse | CC BY 4.0
+SKM-TEA | https://stanfordmlgroup.github.io/projects/skm-tea/ | Stanford AIMI terms
+
